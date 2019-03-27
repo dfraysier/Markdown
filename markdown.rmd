@@ -1,0 +1,40 @@
+#Say Hello to Markdown
+##My try at this may fail
+I have always wondered how to make *italic* texts in RStudio.
+Better yet, making them **bold** is a shocking feat. 
+I never thought i would learn:
+
+* how to make a title,
+* bold and italic texts,
+* and a list. 
+
+All in R! The wonders we accomplish. 
+
+[Click this link for my GitHub](https://github.com/dfraysier/Markdown.git)
+
+###Practice of Markdown with codes
+This is just me learning the different features, will no destination of what I put.
+
+```{r}
+summary(cars$dist)
+summary(cars$speed)
+```
+
+
+A friend once said: 
+
+> It's alwasy better to give
+> than to receive. 
+
+
+```
+This text is displayed verbatim / performatted
+```
+
+We defined the `add` function to  
+computer the sum of two numbers.  
+LaTeX Equations  
+
+$5+10$
+$$15$$
+
